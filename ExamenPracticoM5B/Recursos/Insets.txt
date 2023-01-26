@@ -1,0 +1,8 @@
+INSERT INTO `producto`(`codigo`, `cantidad`, `descripcion`, `precio`) VALUES ('','50','yougurt','3');
+INSERT INTO `producto`(`codigo`, `cantidad`, `descripcion`, `precio`) VALUES ('','10','alcohol','5');
+INSERT INTO `producto`(`codigo`, `cantidad`, `descripcion`, `precio`) VALUES ('','30','cachos','1');
+INSERT INTO `producto`(`codigo`, `cantidad`, `descripcion`, `precio`) VALUES ('','20','leche','1');
+INSERT INTO `producto`(`codigo`, `cantidad`, `descripcion`, `precio`) VALUES ('','60','chupetes','20');
+
+
+link de Capturas: https://docs.google.com/document/d/11D0QHxMlb8Xg5kIUM7vayHX5ltqXp15SQrTBLtjqTYE/edit
